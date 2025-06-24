@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Edric-INNK, known virtually as INNK and Edric in RL
-- 👀 I’m interested in web development & game development
-- 🌱 I’m currently learning Java, Web(HTML, CSS, JS)
-- 💞️ I’m looking to collaborate on nothing, at the moment
-- 📫 How to reach me illy.chas on Discord
+- 👀 I’m interested in AI and Machine Learning Development
+- 🌱 I’m currently learning Web(HTML, CSS, JS, PHP), Python, PyTorch, Tensorflow, and Streamlit
+- 📫 You can reach me out in vinoedric@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love Machine Learning too much
 
 <!---
 Edric-INNK/Edric-INNK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
