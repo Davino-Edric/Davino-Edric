@@ -8,14 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm **Edric** (known online as **INNK**), an aspiring AI/ML developer and data enthusiast based in Indonesia. I love building intelligent systems, from NLP sentiment analysis models to sign-language recognition apps, and I'm steadily expanding into full-stack web development.
-
-- 🔭 Currently working on: **Bisindo (Indonesian Sign Language) recognition** and **AI Projects** collection
-- 🌱 Currently learning: **PyTorch · TensorFlow · Streamlit · Vue.js · Laravel · PHP**
-- 💬 Ask me about: **Machine Learning, NLP, Data Analytics, Jupyter Notebooks**
-- 📫 Reach me at: **vinoedric@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I love Machine Learning _too_ much
+A college student majoring in Data Science looking to expand knowledge and create projects around Data Science, Machine Learning, and Backend Web Dev
 
 ---
 
