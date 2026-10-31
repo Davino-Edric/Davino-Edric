@@ -26,7 +26,7 @@ A college student majoring in Data Science looking to expand knowledge and creat
 ![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-red)
 ![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-red)
 ![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=flat&logo=gradio&logoColor=white)
-![Docker]([https://img.shields.io/badge/VectorDB-Qdrant-red](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white))
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
