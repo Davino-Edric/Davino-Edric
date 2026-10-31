@@ -18,15 +18,16 @@ A college student majoring in Data Science looking to expand knowledge and creat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white).
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white).
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 ![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-red)
 ![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=flat&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 
@@ -47,7 +48,7 @@ A college student majoring in Data Science looking to expand knowledge and creat
 | Project | Description | Tech |
 |---|---|---|
 | [**Bisindo Project**](https://github.com/Davino-Edric/bisindo-space) | Indonesian Sign Language recognition system, Deployed on Huggingface Spaces | Python · ML / CV |
-| [**Pertalite Sentiment Analysis (Deployed Repository)**](https://github.com/Davino-Edric/pertalite-sentiment-space) | Sentiment analysis on social media regarding controversial government policies deployed on Hugginface Spaces| Python · ML / Sentiment Analysis |
+| [**Pertalite Sentiment Analysis (Deployed Repository)**](https://github.com/Davino-Edric/pertalite-sentiment-space) | Sentiment analysis on social media regarding controversial government policies, Deployed on Huggingface Spaces| Python · ML / Sentiment Analysis |
 | [**Prototype Study Hub 01**](https://github.com/Davino-Edric/PSH-01) | A prototype RAG that's suited to local devices and uses local LLM providers | Python · Qdrant · Docker · Ollama · Streamlit |
 
 ---
