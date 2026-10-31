@@ -6,15 +6,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 A college student majoring in Data Science looking to expand knowledge and create projects around Data Science, Machine Learning, and Backend Web Dev
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 🤖 AI / ML / Data
+#### AI / ML / Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -22,8 +22,15 @@ A college student majoring in Data Science looking to expand knowledge and creat
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
+![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-red)
+![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-red)
+![Gradio](https://img.shields.io/badge/-Gradio-3E8EFB?style=flat&logo=gradio&logoColor=white)
+![Docker]([https://img.shields.io/badge/VectorDB-Qdrant-red](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white))
 
-#### 🌐 Web Development
+
+
+#### Web Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,27 +46,9 @@ A college student majoring in Data Science looking to expand knowledge and creat
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Bisindo Project**](https://github.com/Davino-Edric/bisindo-space) | Indonesian Sign Language recognition system | Python · ML / CV |
-| [**Pertalite Sentiment Analysis (Deployed Repository)**](https://github.com/Davino-Edric/pertalite-sentiment-space) | Sentiment analysis on sociel media regarding controversial government policies | Python · ML / Sentiment Analysis |
+| [**Bisindo Project**](https://github.com/Davino-Edric/bisindo-space) | Indonesian Sign Language recognition system, Deployed on Huggingface Spaces | Python · ML / CV |
+| [**Pertalite Sentiment Analysis (Deployed Repository)**](https://github.com/Davino-Edric/pertalite-sentiment-space) | Sentiment analysis on social media regarding controversial government policies deployed on Hugginface Spaces| Python · ML / Sentiment Analysis |
 | [**Prototype Study Hub 01**](https://github.com/Davino-Edric/PSH-01) | A prototype RAG that's suited to local devices and uses local LLM providers | Python · Qdrant · Docker · Ollama · Streamlit |
-| [**Kafe Geblak**](https://github.com/Davino-Edric/kafe_geblak) | Project-Based Learning (PJBL) cafe management app | Web |
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Davino-Edric&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davino-Edric&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Davino-Edric&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
